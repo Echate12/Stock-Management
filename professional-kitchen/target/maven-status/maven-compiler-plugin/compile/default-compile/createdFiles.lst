@@ -1,0 +1,6 @@
+ma\professional\kitchen\professional_kitchen\entities\ProductCategory.class
+ma\professional\kitchen\professional_kitchen\ProfessionalKitchenApplication.class
+ma\professional\kitchen\professional_kitchen\repository\ProductRepository.class
+ma\professional\kitchen\professional_kitchen\controller\ProductController.class
+ma\professional\kitchen\professional_kitchen\entities\ProductEntity.class
+ma\professional\kitchen\professional_kitchen\services\ProductService.class
